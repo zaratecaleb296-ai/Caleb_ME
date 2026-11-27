@@ -442,3 +442,10 @@ summary(pin.aov)
 TukeyHSD(pin.aov)
 
 plot(TukeyHSD (pin.aov))
+
+
+Curso: METODOS ESTADISTICOS
+El objetivo de este curso era saber la funcionalidad de RStudio, fue una aplicacion de gran utilidad para nosotros como Ingenieros Forestales, ya que dentro de esta aplicacion nos ayudo mucho para
+resolver problemas tanto forestales como ambientales, asi como para comparar crecimientos por ejemplo de crecimiento de especies de arboles y entre otras cosas.
+
+El repositorio es un espacio digital donde se almacenan, organizan y respaldan avanzes de un proyecto. Su utilidad principal es mantener toda la información en un solo lugar, facilitar el acceso a los archivos, registrar los cambios realizados y permitir que varias personas colaboren en un mismo trabajo sin perder versiones anteriores.
