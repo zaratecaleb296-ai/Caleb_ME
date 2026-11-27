@@ -449,3 +449,7 @@ El objetivo de este curso era saber la funcionalidad de RStudio, fue una aplicac
 resolver problemas tanto forestales como ambientales, asi como para comparar crecimientos por ejemplo de crecimiento de especies de arboles y entre otras cosas.
 
 El repositorio es un espacio digital donde se almacenan, organizan y respaldan avanzes de un proyecto. Su utilidad principal es mantener toda la información en un solo lugar, facilitar el acceso a los archivos, registrar los cambios realizados y permitir que varias personas colaboren en un mismo trabajo sin perder versiones anteriores.
+
+
+<img width="1328" height="694" alt="Captura CALEB" src="https://github.com/user-attachments/assets/e685fc56-aff4-4aac-8400-f3ed760da17d" />
+
